@@ -1,0 +1,2 @@
+[05-Feb-2022 02:38:32 UTC] PHP Notice:  Undefined index: iam_admin in /home/smksisla/sityoy.smksislambahagia.sch.id/admin/index.php on line 10
+[05-Feb-2022 02:38:32 UTC] PHP Notice:  Trying to get property 'nama' of non-object in /home/smksisla/sityoy.smksislambahagia.sch.id/admin/index.php on line 13
